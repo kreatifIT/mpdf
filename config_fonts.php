@@ -81,6 +81,22 @@ $this->fonttrans = array(
  */
 
 $this->fontdata = array(
+	"minionpro" => array(
+		'R' => "MinionPro-Regular.ttf",
+		'B' => "MinionPro-Bold.ttf",
+		'I' => "MinionPro-Italic.ttf",
+		'BI' => "MinionPro-Bold-Italic.ttf",
+		'useOTL' => 0xFF,
+		'useKashida' => 75,
+	),
+	"myriadpro" => array(
+		'R' => "myriadpro-regular.ttf",
+		'B' => "myriadpro-bold.ttf",
+		'I' => "myriadpro-italic.ttf",
+		'BI' => "myriadpro-bold-italic.ttf",
+		'useOTL' => 0xFF,
+		'useKashida' => 75,
+	),
 	"dejavusanscondensed" => array(
 		'R' => "DejaVuSansCondensed.ttf",
 		'B' => "DejaVuSansCondensed-Bold.ttf",
