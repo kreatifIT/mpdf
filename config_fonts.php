@@ -89,6 +89,14 @@ $this->fontdata = array(
 		'useOTL' => 0xFF,
 		'useKashida' => 75,
 	),
+	"opensans" => array(
+		'R' => "OpenSans-Regular.ttf",
+		'B' => "OpenSans-Bold.ttf",
+		'I' => "OpenSans-Italic.ttf",
+		'BI' => "OpenSans-BoldItalic.ttf",
+		'useOTL' => 0xFF,
+		'useKashida' => 75,
+	),
 	"myriadpro" => array(
 		'R' => "myriadpro-regular.ttf",
 		'B' => "myriadpro-bold.ttf",
