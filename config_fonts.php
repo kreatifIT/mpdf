@@ -97,6 +97,16 @@ $this->fontdata = array(
 		'useOTL' => 0xFF,
 		'useKashida' => 75,
 	),
+	"lato" => array(
+		'R' => "Lato-Regular.ttf",
+		'B' => "Lato-Bold.ttf",
+		'useKashida' => 75,
+	),
+	"frutiger" => array(
+		'R' => "FrutigerLT45-Light.ttf",
+		'B' => "FrutigerLT65-Bold.ttf",
+		'useKashida' => 75,
+	),
 	"myriadpro" => array(
 		'R' => "myriadpro-regular.ttf",
 		'B' => "myriadpro-bold.ttf",
