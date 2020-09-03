@@ -107,6 +107,11 @@ $this->fontdata = array(
 		'B' => "FrutigerLT65-Bold.ttf",
 		'useKashida' => 75,
 	),
+    "warnock" => array(
+        'R' => "WarnockPro-Regular.ttf",
+        'B' => "WarnockPro-Bold.ttf",
+        'useKashida' => 75,
+    ),
 	"myriadpro" => array(
 		'R' => "myriadpro-regular.ttf",
 		'B' => "myriadpro-bold.ttf",
